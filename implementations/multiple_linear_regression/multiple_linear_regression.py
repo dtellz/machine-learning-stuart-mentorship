@@ -46,5 +46,12 @@ regressor.fit(X_train, y_train)
 
 y_pred = regressor.predict(X_test);
 np.set_printoptions(precision=2)
-print(np.concatenate((y_pred.reshape(len(y_pred),1), y_test.reshape(len(y_test),1)),1))
-#regressor.predict([[10, 10, 10, 10, 10, 10]])
+#print(np.concatenate((y_pred.reshape(len(y_pred),1), y_test.reshape(len(y_test),1)),1))
+
+#Q1: how to predict the profit of a startup with R&D spend of 160k admin spend 130k, marketing spend 300k and located in California??
+regressor.predict([[1, 0, 0, 160000, 130000, 300000]])
+
+#Q2: how do I get the final regression equation??
+
+print(regressor.coef_)
+print(regressor.intercept_)
