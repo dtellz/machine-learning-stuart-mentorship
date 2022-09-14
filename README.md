@@ -1,3 +1,9 @@
+<p align=“center”>
+  <a href=“https://stuart.com/”>
+    <img alt=“/logo” src=“o.jpg” width=“200”>
+  </a>
+</p>
+
 # Machine learning mentoring program at Stuart Delivery
 
 My first introduction with my mentor was awesome, he introduced me to the field from a professional point of view. 
@@ -16,4 +22,5 @@ Section7: Multiple linear regression
 Section8: Polynomial linear regression
 	implemented a model to predict the salary of an employee depending of its position and the 
 	years on rank
+
 
