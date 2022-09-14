@@ -1,8 +1,5 @@
-<p align=“center”>
-  <a href=“https://stuart.com/”>
-    <img src=“pic.png” width=“200”>
-  </a>
-</p>
+
+<p align='center'><img src='./pic.gif' width='300' height='300'></p>
 
 # Machine learning mentoring program at Stuart Delivery
 
