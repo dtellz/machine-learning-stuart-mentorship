@@ -1,5 +1,5 @@
 
-<p align='center'><img src='./pic.png' width='300' height='300'></p>
+<p align='center'><img src='./machineLearning.gif.webp' width='600' height='300'></p>
 
 # Machine learning mentoring program at Stuart Delivery
 
