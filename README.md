@@ -1,6 +1,6 @@
 <p align=“center”>
   <a href=“https://stuart.com/”>
-    <img src=“./o.jpg” width=“200”>
+    <img src=“pic.png” width=“200”>
   </a>
 </p>
 
