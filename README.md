@@ -3,8 +3,6 @@
 
 # Machine learning mentoring program at Stuart Delivery
 
-My first introduction with my mentor was awesome, he introduced me to the field from a professional point of view. 
-
 ## First assesment 
 
 Having free access to Udemy courses as a Stuart's employee and considering I have experience with python and data processing, my first objective was to complete Sections 6, 7 and 8 from [https://www.udemy.com/course/machinelearning/](https://www.udemy.com/course/machinelearning/) course.
