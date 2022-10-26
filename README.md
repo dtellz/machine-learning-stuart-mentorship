@@ -21,3 +21,15 @@ based on its expenses on R&D, marketing and administration
 implemented a model to predict the salary of an employee depending of its position and the 	
 years on rank
 
+## Second assesment
+
+Complete sections 9, 10 and 11 from the Udemy course [https://www.udemy.com/course/machinelearning/](https://www.udemy.com/course/machinelearning/)
+
+#### Section9: Support Vector Regression
+
+This one didnt look like a good one to me. Didnt really liked it, still went trought and implemented the model
+
+#### Section10: Decision Tree Regression
+
+Implemented the model which lookes like a simple yet useful model
+
